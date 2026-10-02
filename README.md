@@ -20,3 +20,4 @@ Each browser/device keeps its own data. Phone and laptop will NOT match until th
 
 ## 4. Updating the app later
 Replace index.html in the repo (Add file > Upload files, same name). When you are online the installed app picks up the new version on its next open or refresh.
+
